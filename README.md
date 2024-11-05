@@ -21,5 +21,5 @@ my projects includes;
 1. Excel; it contains an analysed data that talks about the average of the data.
 2. SQL; It also contains an analysed data but in a different format due to the data tool used.
 3. Power BI; It contains data cleaning and visualisation of data, visualising of data makes it more attractive to 
-to want to know more about it, and it makes it beautiful to behold as well when you use the right colours.
+want to know more about it, and it makes it beautiful to behold as well when you use the right colours.
 
